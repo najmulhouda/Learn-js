@@ -6,5 +6,14 @@ const reverseArray = arr.toReversed();
 
 
 const spliceArr = arr.splice(-2 , -2, 100, 400);
-console.log(spliceArr);
-console.log(arr);        
+// console.log(spliceArr);
+// console.log(arr);
+
+const array = [9, 3, 4,34, 2, 43, 33]
+const compare = (a, b) => {
+    return a - b;
+}
+const sortArray = array.sort(compare);
+console.log(sortArray);
+// const sortArray = array.sort();
+// console.log(sortArray);  
