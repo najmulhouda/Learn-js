@@ -34,6 +34,7 @@ user.sayMyName();
 (function(message) {
   console.log(message);
 })("Hello, I'm an IIFE!");
+;
 
 
 // Arrow function within an IIFE
