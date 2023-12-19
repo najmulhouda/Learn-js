@@ -1,0 +1,30 @@
+#blue {
+  background-color: blue;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 5px;
+}
+#red {
+  background-color: red;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 5px;
+}
+#green {
+  background-color: green;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 5px;
+}
+#yellow {
+  background-color: yellow;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 5px;
+}
+#pink {
+  background-color: pink;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 5px;
+}
