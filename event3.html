@@ -11,27 +11,23 @@
     <button id="stop">Stop</button>
 
     <script>
-      //   const sayDate = function (str) {
-      //     console.log(str, Date.now());
-      //   };
+      document.querySelector("#start").addEventListener("click", function () {
+        const start = setInterval(sayDate, 1000, "Hello");
+        console.log(start);
+      });
+      clearInterval(sayDate);
+      document.querySelector("#stop").addEventListener("click", function () {
+        clearInterval(sayDate);
+        clearInterval(start);
+      });
 
-      //   document.querySelector("#start").addEventListener("click", function () {
-      //     const start = setInterval(sayDate, 1000, "Hello");
-      //     console.log(start);
-      //   });
-      //   clearInterval(sayDate);
-      //   document.querySelector("#stop").addEventListener("click", function () {
-      //     clearInterval(sayDate);
-      //     clearInterval(start);
-      //   });
+      const sayDate = function (str) {
+        console.log(str, Date.now());
+      };
 
-         const sayDate = function(str){
-          console.log(str, Date.now());
-      }
+      const intervalId = setInterval(sayDate, 1000, "hi");
 
-      const intervalId = setInterval(sayDate, 1000, "hi")
-
-      clearInterval(intervalId)
+      clearInterval(intervalId);
     </script>
   </body>
 </html>
