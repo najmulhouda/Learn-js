@@ -18,10 +18,7 @@
         const start = setInterval(sayDate, 1000, "Hello");
         console.log(start);
       });
-      document.querySelector("#start").addEventListener("click", function () {
-        const start = setInterval(sayDate, 1000, "Hello");
-        console.log(start);
-      });
+
       clearInterval(sayDate);
       document.querySelector("#stop").addEventListener("click", function () {
         clearInterval(sayDate);
