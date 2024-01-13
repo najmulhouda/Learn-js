@@ -32,3 +32,657 @@ for (let [key, value] of Object.entries(chai)) {
         console.log(`${key} : ${value}`);
     }
 }
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
+for (let [key, value] of Object.entries(chai)) {
+    if (typeof value !== 'function') {
+        
+        console.log(`${key} : ${value}`);
+    }
+}
